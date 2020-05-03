@@ -2,6 +2,9 @@
 
 Create photo mosaic images with tiles from Clash Royale units. No tile duplicated (but some tiles are very similar).
 
+see reddit:
+https://www.reddit.com/r/ClashRoyale/comments/f3jsk9/i_made_a_photo_mosaic_from_clash_royale_units/
+
 ## Preview
 <img src="./out.jpg" width="400">
 
